@@ -1,0 +1,47 @@
+[
+  {
+    "assunto": "apresentação",
+    "palavras": ["apresentacao", "final", "seminario"],
+    "resposta": "A apresentação final é na aula 15."
+  },
+  {
+    "assunto": "avaliação",
+    "palavras": ["avaliacao", "nota", "notas", "peso", "pesos", "media", "ne", "nt", "np"],
+    "resposta": "A nota combina entregas semanais (NE, 10%), trabalho (NT, 20%) e provas (NP, 70%)."
+  },
+  {
+    "assunto": "provas",
+    "palavras": ["prova", "provas", "p1", "p2", "individual"],
+    "resposta": "São duas provas individuais, P1 e P2, sobre o que o seu grupo entregou."
+  },
+  {
+    "assunto": "linguagem",
+    "palavras": ["linguagem", "python", "programar", "codigo"],
+    "resposta": "Usamos Python. As aulas 1 a 4 são só de Python."
+  },
+  {
+    "assunto": "grupos",
+    "palavras": ["grupo", "grupos", "equipe", "integrantes"],
+    "resposta": "Os grupos são de 4 pessoas, formados pelo professor na aula 5."
+  },
+  {
+    "assunto": "projeto",
+    "palavras": ["projeto", "chatbot", "rag", "sistema", "construir"],
+    "resposta": "Cada grupo vai construir um chatbot que tira dúvidas sobre documentos, usando RAG."
+  },
+  {
+    "assunto": "ferramentas",
+    "palavras": ["ferramenta", "ferramentas", "github", "docker", "render", "aiven", "mysql"],
+    "resposta": "Vamos usar GitHub, Docker, MySQL na Aiven e deploy no Render."
+  },
+  {
+    "assunto": "uso de IA",
+    "palavras": ["ia", "gpt", "chatgpt", "copiloto", "autocompletar"],
+    "resposta": "Nas aulas 1 a 4 o autocompletar de IA fica desligado. Depois, a IA pode ajudar no código, mas não nos diagramas."
+  },
+  {
+    "assunto": "entregas",
+    "palavras": ["entrega", "entregas", "semanal", "tarefa", "prazo"],
+    "resposta": "Há uma entrega por semana (NE), feita pelo grupo."
+  }
+]
